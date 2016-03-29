@@ -1,0 +1,299 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "BJXHEdzHxRPmVnt6GFaPpwgns2c=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/coreos/go-etcd/etcd",
+			"path": "github.com/coreos/go-etcd/etcd",
+			"revision": "003851be7bb0694fe3cc457a49529a19388ee7cf",
+			"revisionTime": "2015-10-26T09:03:18-07:00"
+		},
+		{
+			"checksumSHA1": "Ix+QxQ2NTYhMZUg9JH0B3O8QKXY=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/gengo/grpc-gateway/runtime",
+			"path": "github.com/gengo/grpc-gateway/runtime",
+			"revision": "965b62d83c33af1be34fd5d70ccf814c4029a319",
+			"revisionTime": "2016-03-23T19:38:48+09:00"
+		},
+		{
+			"checksumSHA1": "Znye0CQEoHeCnx23uToJeTjY0xQ=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/gengo/grpc-gateway/third_party/googleapis/google/api",
+			"path": "github.com/gengo/grpc-gateway/third_party/googleapis/google/api",
+			"revision": "965b62d83c33af1be34fd5d70ccf814c4029a319",
+			"revisionTime": "2016-03-23T19:38:48+09:00"
+		},
+		{
+			"checksumSHA1": "B3ebg4a6QHAw3qO9oCnny0E4gQs=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/gengo/grpc-gateway/utilities",
+			"path": "github.com/gengo/grpc-gateway/utilities",
+			"revision": "965b62d83c33af1be34fd5d70ccf814c4029a319",
+			"revisionTime": "2016-03-23T19:38:48+09:00"
+		},
+		{
+			"checksumSHA1": "HmbftipkadrLlCfzzVQ+iFHbl6g=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/golang/glog",
+			"path": "github.com/golang/glog",
+			"revision": "23def4e6c14b4da8ac2ed8007337bc5eb5007998",
+			"revisionTime": "2016-01-25T21:49:56+01:00"
+		},
+		{
+			"checksumSHA1": "JrwZ3Zebmgw1nB4IwCMys0euNgA=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/golang/protobuf/jsonpb",
+			"path": "github.com/golang/protobuf/jsonpb",
+			"revision": "8d92cf5fc15a4382f8964b08e1f42a75c0591aa3",
+			"revisionTime": "2016-03-19T05:57:00+11:00"
+		},
+		{
+			"checksumSHA1": "UQtJP2n/HEBhHaq6a9R2hCHgy+8=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/golang/protobuf/proto",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "8d92cf5fc15a4382f8964b08e1f42a75c0591aa3",
+			"revisionTime": "2016-03-19T05:57:00+11:00"
+		},
+		{
+			"checksumSHA1": "+cT5a/FtqhkUAnVuajBTUAS2iHU=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"path": "github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"revision": "8d92cf5fc15a4382f8964b08e1f42a75c0591aa3",
+			"revisionTime": "2016-03-19T05:57:00+11:00"
+		},
+		{
+			"checksumSHA1": "rCffFCN6TpDAN3Jylyo8RFzhQ9E=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/mattn/go-colorable",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "9cbef7c35391cca05f15f8181dc0b18bc9736dbb",
+			"revisionTime": "2016-02-20T16:59:35+09:00"
+		},
+		{
+			"checksumSHA1": "NkbetqlpWBi3gP08JDneC+axTKw=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/mattn/go-isatty",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "56b76bdf51f7708750eac80fa38b952bb9f32639",
+			"revisionTime": "2015-12-11T09:06:21+09:00"
+		},
+		{
+			"checksumSHA1": "sG5nIHvWzFI3mMTNjRYe4UwIcDs=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/pachyderm/pachyderm/src/client",
+			"path": "github.com/pachyderm/pachyderm/src/client",
+			"revision": "ad376fac13760c50be13ca8e2fefa5dfb647f7ac",
+			"revisionTime": "2016-03-28T11:10:02-07:00"
+		},
+		{
+			"checksumSHA1": "wCFGG9TNQyoLKRUrqUwjB6ZeI/I=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/pachyderm/pachyderm/src/client/pfs",
+			"path": "github.com/pachyderm/pachyderm/src/client/pfs",
+			"revision": "ad376fac13760c50be13ca8e2fefa5dfb647f7ac",
+			"revisionTime": "2016-03-28T11:10:02-07:00"
+		},
+		{
+			"checksumSHA1": "k9rRIXrYDiKp97e8hsu9deq0SG0=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/pachyderm/pachyderm/src/client/pps",
+			"path": "github.com/pachyderm/pachyderm/src/client/pps",
+			"revision": "ad376fac13760c50be13ca8e2fefa5dfb647f7ac",
+			"revisionTime": "2016-03-28T11:10:02-07:00"
+		},
+		{
+			"checksumSHA1": "XILlt8vfljeL769S9flI/xudW8k=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/pachyderm/pachyderm/src/server/pkg/discovery",
+			"path": "github.com/pachyderm/pachyderm/src/server/pkg/discovery",
+			"revision": "ad376fac13760c50be13ca8e2fefa5dfb647f7ac",
+			"revisionTime": "2016-03-28T11:10:02-07:00"
+		},
+		{
+			"checksumSHA1": "wuY7V/hbO4qiAfFa//zEq2J6Ozo=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/pachyderm/pachyderm/src/server/pkg/grpcutil",
+			"path": "github.com/pachyderm/pachyderm/src/server/pkg/grpcutil",
+			"revision": "ad376fac13760c50be13ca8e2fefa5dfb647f7ac",
+			"revisionTime": "2016-03-28T11:10:02-07:00"
+		},
+		{
+			"checksumSHA1": "fdQgylrw9R8pLF+jw7qu6lVYuNo=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/pachyderm/pachyderm/src/server/pkg/shard",
+			"path": "github.com/pachyderm/pachyderm/src/server/pkg/shard",
+			"revision": "ad376fac13760c50be13ca8e2fefa5dfb647f7ac",
+			"revisionTime": "2016-03-28T11:10:02-07:00"
+		},
+		{
+			"checksumSHA1": "fRc+LrMfR/tpqhlr8HZjm/o7ho8=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/pachyderm/pachyderm/src/server/pkg/uuid",
+			"path": "github.com/pachyderm/pachyderm/src/server/pkg/uuid",
+			"revision": "ad376fac13760c50be13ca8e2fefa5dfb647f7ac",
+			"revisionTime": "2016-03-28T11:10:02-07:00"
+		},
+		{
+			"checksumSHA1": "cKNzpMpci3WUAzXpe+tVnBv2cjE=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/satori/go.uuid",
+			"path": "github.com/satori/go.uuid",
+			"revision": "f9ab0dce87d815821e221626b772e3475a0d2749",
+			"revisionTime": "2016-03-24T11:22:44Z"
+		},
+		{
+			"checksumSHA1": "tHm2SMtuRfrwh6NnnymsuoJ6e0Q=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/github.com/ugorji/go/codec",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "a396ed22fc049df733440d90efe17475e3929ccb",
+			"revisionTime": "2016-03-28T02:07:40-04:00"
+		},
+		{
+			"checksumSHA1": "Z4Y80rXf5Vt7CAalCExrvtIwvMA=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/go.pedge.io/lion",
+			"path": "go.pedge.io/lion",
+			"revision": "7db37edc2411c8ce17649c276621a9e0521867d5",
+			"revisionTime": "2016-03-25T13:30:53+01:00"
+		},
+		{
+			"checksumSHA1": "xZAWEzTF1URPAQiNw6Kp9pQCMOM=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/go.pedge.io/lion/proto",
+			"path": "go.pedge.io/lion/proto",
+			"revision": "7db37edc2411c8ce17649c276621a9e0521867d5",
+			"revisionTime": "2016-03-25T13:30:53+01:00"
+		},
+		{
+			"checksumSHA1": "qdPL8BmNSQyYFoahmPSuaLiLSbw=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/go.pedge.io/pb/go/google/protobuf",
+			"path": "go.pedge.io/pb/go/google/protobuf",
+			"revision": "22334fb7b4e8ded371ec14eec3eee79e436dc71d",
+			"revisionTime": "2016-03-24T14:11:57+01:00"
+		},
+		{
+			"checksumSHA1": "pBs9WwpyF8VNzS2S87tOOU0tDCY=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/go.pedge.io/pkg/sync",
+			"path": "go.pedge.io/pkg/sync",
+			"revision": "15a92f04224710098b562f3c5e20a200b6490609",
+			"revisionTime": "2016-03-28T17:38:20+02:00"
+		},
+		{
+			"checksumSHA1": "AIOvizI9ARrVSTXx8hfz+C2ZBfA=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/go.pedge.io/proto/rpclog",
+			"path": "go.pedge.io/proto/rpclog",
+			"revision": "63c80eaadc6591d12afdd716602670ac56e761f6",
+			"revisionTime": "2016-03-27T11:43:39+02:00"
+		},
+		{
+			"checksumSHA1": "NVElCVKCtIjKcfj+8pSJSicdRq0=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/go.pedge.io/proto/stream",
+			"path": "go.pedge.io/proto/stream",
+			"revision": "63c80eaadc6591d12afdd716602670ac56e761f6",
+			"revisionTime": "2016-03-27T11:43:39+02:00"
+		},
+		{
+			"checksumSHA1": "hHUxM27mDPWcVx66n+fJ+V/TPZ0=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/go.pedge.io/proto/version",
+			"path": "go.pedge.io/proto/version",
+			"revision": "63c80eaadc6591d12afdd716602670ac56e761f6",
+			"revisionTime": "2016-03-27T11:43:39+02:00"
+		},
+		{
+			"checksumSHA1": "9QKY4bQlbQ/VZZFP8/1WtH4b0mA=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/golang.org/x/net/context",
+			"path": "golang.org/x/net/context",
+			"revision": "31df19d69da8728e9220def59b80ee577c3e48bf",
+			"revisionTime": "2016-03-29T10:16:23+11:00"
+		},
+		{
+			"checksumSHA1": "ClIslOd+ahFw742wZTJW0XpSLLQ=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/golang.org/x/net/http2",
+			"path": "golang.org/x/net/http2",
+			"revision": "31df19d69da8728e9220def59b80ee577c3e48bf",
+			"revisionTime": "2016-03-29T10:16:23+11:00"
+		},
+		{
+			"checksumSHA1": "VYl3cuReuGeFp9vb1cm8x87qdlU=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/golang.org/x/net/http2/hpack",
+			"path": "golang.org/x/net/http2/hpack",
+			"revision": "31df19d69da8728e9220def59b80ee577c3e48bf",
+			"revisionTime": "2016-03-29T10:16:23+11:00"
+		},
+		{
+			"checksumSHA1": "/k7k6eJDkxXx6K9Zpo/OwNm58XM=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/golang.org/x/net/internal/timeseries",
+			"path": "golang.org/x/net/internal/timeseries",
+			"revision": "31df19d69da8728e9220def59b80ee577c3e48bf",
+			"revisionTime": "2016-03-29T10:16:23+11:00"
+		},
+		{
+			"checksumSHA1": "dZJWvQmmWOwDkGPxJqoE8rN005w=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/golang.org/x/net/trace",
+			"path": "golang.org/x/net/trace",
+			"revision": "31df19d69da8728e9220def59b80ee577c3e48bf",
+			"revisionTime": "2016-03-29T10:16:23+11:00"
+		},
+		{
+			"checksumSHA1": "tv1u5zxov+2dO83iba/fR7vRY3g=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc",
+			"path": "google.golang.org/grpc",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "08icuA15HRkdYCt6H+Cs90RPQsY=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc/codes",
+			"path": "google.golang.org/grpc/codes",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "a+C+FoyX7Tc4iNFhBndt/y/iPEg=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc/credentials",
+			"path": "google.golang.org/grpc/credentials",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "3Lt5hNAG8qJAYSsNghR5uA1zQns=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc/grpclog",
+			"path": "google.golang.org/grpc/grpclog",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "T3Q0p8kzvXFnRkMaK/G8mCv6mc0=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc/internal",
+			"path": "google.golang.org/grpc/internal",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "IlzBp7dylW8F4D7eINj8xHt/jMk=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc/metadata",
+			"path": "google.golang.org/grpc/metadata",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "fGJlPKvpYAZ6+HRX3qScFnZ9dd4=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc/naming",
+			"path": "google.golang.org/grpc/naming",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "3RRoLeH6X2//7tVClOVzxW2bY+E=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc/peer",
+			"path": "google.golang.org/grpc/peer",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "1M3pgWElWQcG+9nK8MCTgSZAzG8=",
+			"origin": "github.com/erikreppel/pachyderm-client-examples/pull_data/vendor/google.golang.org/grpc/transport",
+			"path": "google.golang.org/grpc/transport",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "1M3pgWElWQcG+9nK8MCTgSZAzG8=",
+			"path": "google.golang.org/grpc/transport",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		},
+		{
+			"checksumSHA1": "1M3pgWElWQcG+9nK8MCTgSZAzG8=",
+			"path": "google.golang.org/grpc/transport",
+			"revision": "d1f7152c46d141a3924d5abb3a2cb8704f6421b6",
+			"revisionTime": "2016-03-28T23:31:13-07:00"
+		}
+	],
+	"rootPath": "github.com/erikreppel/pachyderm-client-examples/pull_data"
+}
